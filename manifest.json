@@ -1,0 +1,19 @@
+{
+  "id": "coin-flip",
+  "name": "Coin Flipper",
+  "version": "1.0.0",
+  "author": "DanisDeveloper",
+  "description": "Простой виджет — подбрасывание монетки с панелью-уведомлением",
+  "entryPoints": {
+    "barWidget": "BarWidget.qml"
+  },
+  "dependencies": {
+    "plugins": []
+  },
+  "metadata": {
+    "defaultSettings": {
+      "iconColor": "mPrimary"
+    },
+    "preview": "preview.png"
+  }
+}
